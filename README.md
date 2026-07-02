@@ -1,1 +1,1 @@
-Functions for tricks and plots in GAMs.
+Functions for some tricks and plots in GAMs.
