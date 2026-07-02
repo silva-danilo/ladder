@@ -1,1 +1,1 @@
-Functions for web scraping demo.
+Functions for tricks and plots in GAMs.
